@@ -1,7 +1,11 @@
 ## Java
 
-개발자를 위한 기초과정들(Java Fundamental)입니다.
+개발자를 위한 기초과정들 입니다.
 
+- Java Fundamental (Pos Program)
+- Jsp
+- Ajax (Fetch)
+- Simple Algorithm
 
 [블로그 입니다.](https://blog.naver.com/kjhg4782)
 
